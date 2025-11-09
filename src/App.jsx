@@ -67,13 +67,13 @@ const App = () => {
       )}
 
       {/* Hero Section */}
-      <section id="home" className='flex flex-col lg:flex-row items-center justify-between gap-6 sm:gap-8 lg:gap-12 px-4 sm:px-6 md:px-10 lg:px-20 xl:px-32 py-10 sm:py-14 pt-22 sm:pt-26 md:pt-36'>
+      <section id="home" className='flex flex-col lg:flex-row items-center justify-between gap-4 sm:gap-6 lg:gap-8 px-4 sm:px-6 md:px-10 lg:px-20 xl:px-32 py-10 sm:py-14 pt-22 sm:pt-26 md:pt-36'>
         <div className='text-center lg:text-left w-full lg:w-1/2 order-2 lg:order-1 px-4 sm:px-6 lg:px-0'>
           <p className='text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl text-white mb-2 sm:mb-4'>
             Hello, I'm Emad,
           </p>
           <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-9xl text-[#A6BBCC] font-extrabold leading-tight mb-6 sm:mb-8'>
-            Full Stack Developer
+            Full stack Developer
           </h1>
           <div className='inline-block'>
             <a
