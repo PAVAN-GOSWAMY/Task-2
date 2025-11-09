@@ -72,7 +72,7 @@ const App = () => {
           <p className='text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl text-white mb-2 sm:mb-4'>
             Hello, I'm Emad,
           </p>
-          <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-8xl text-[#A6BBCC] font-extrabold leading-tight mb-6 sm:mb-8'>
+          <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-7xl xl:text-8xl text-[#A6BBCC] font-extrabold leading-tight mb-6 sm:mb-8'>
             Full stack Developer
           </h1>
           <div className='inline-block'>
